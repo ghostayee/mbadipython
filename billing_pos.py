@@ -4,6 +4,7 @@ item = "Subaru "
 item_amount = 300000
 customer_balance = 50000
 norm = 100
+sum = customer_balance
 
 new_customer_balance = customer_balance - item_amount
 
